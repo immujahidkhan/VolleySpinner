@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="state">
+        <item>Choose State</item>
+        <item>Azad Kashmir</item>
+        <item>Balochistan</item>
+        <item>Federally Administered Tribal Areas</item>
+        <item>Islamabad Capital Territory</item>
+        <item>Khyber Pakhtunkhwa</item>
+        <item>Northern Areas</item>
+        <item>Punjab</item>
+        <item>Sindh</item>
+    </array>
+</resources>
